@@ -317,12 +317,6 @@
     "symbol": null,
     "uniqSymbol": null
   },
-  "CHE": {
-    "name": "WIR Euro",
-    "fractionSize": 2,
-    "symbol": null,
-    "uniqSymbol": null
-  },
   "CHF": {
     "name": "Swiss Franc",
     "fractionSize": 2,
@@ -336,18 +330,6 @@
       "template": "$1",
       "rtl": false
     }
-  },
-  "CHW": {
-    "name": "WIR Franc",
-    "fractionSize": 2,
-    "symbol": null,
-    "uniqSymbol": null
-  },
-  "CLF": {
-    "name": "Unidad de Fomento",
-    "fractionSize": 4,
-    "symbol": null,
-    "uniqSymbol": null
   },
   "CLP": {
     "name": "Chilean Peso",
@@ -381,12 +363,6 @@
       "template": "$1",
       "rtl": false
     },
-    "uniqSymbol": null
-  },
-  "COU": {
-    "name": "Unidad de Valor Real",
-    "fractionSize": 2,
-    "symbol": null,
     "uniqSymbol": null
   },
   "CRC": {
@@ -1155,12 +1131,6 @@
     },
     "uniqSymbol": null
   },
-  "MXV": {
-    "name": "Mexican Unidad de Inversion (UDI)",
-    "fractionSize": 2,
-    "symbol": null,
-    "uniqSymbol": null
-  },
   "MYR": {
     "name": "Malaysian Ringgit",
     "fractionSize": 2,
@@ -1712,7 +1682,7 @@
     }
   },
   "USD": {
-    "name": "US Dollar",
+    "name": "United States Dollar",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "$",
